@@ -1,4 +1,4 @@
-# Set_Orienteering_Problem
+# The Set Orienteering Problem
 
 This document is an attachment of the papers:
 
