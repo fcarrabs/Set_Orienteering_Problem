@@ -8,7 +8,7 @@ This document is an attachment of the papers:
 
 3.	F. Laureana, C. Archetti, F. Carrabs, and R. Cerulli, A New Formulation and a Branch-and-Cut Algorithm for the Set Orienteering Problem, Submitted.
 
-We document the file format of the instances. Files can be downloaded at http://www.dipmat2.unisa.it/people/carrabs/www/DataSet/InstancesSOP.zip 
+We document the file format of the instances used in these papers. Files can be downloaded at http://www.dipmat2.unisa.it/people/carrabs/www/DataSet/InstancesSOP.zip 
 or
 https://github.com/fcarrabs/Set_Orienteering_Problem/upload/main
 
