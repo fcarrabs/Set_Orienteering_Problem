@@ -24,7 +24,9 @@ Files are organized as follows.
 			-  File name is structured as follows:  <TSP-instance-name>T<percentage of best/optimal GTSP solution>p<#kind of generation of profits>.sop
 
 A second set of instances has the abbreviation “RND” inside the name. In this set the vertices are randomly assigned to the clusters.
-			-  File format follows TSPLIB format with an additional GTSP_SET_SECTION: One line for each cluster of customers: 					<cluster_id> <cluster_profit> list:<customer_id>
+
+			-  File format follows TSPLIB format with an additional GTSP_SET_SECTION: One line for each cluster of customers: 
+				<cluster_id> <cluster_profit> list:<customer_id>
 
 *** Detailed Results *** 
 	
