@@ -4,7 +4,7 @@ This document is an attachment of the papers:
 
 1.	Claudia Archetti, Francesco Carrabs, Raffaele Cerulli, [The Set Orienteering Problem](https://www.sciencedirect.com/science/article/pii/S0377221717310202), European Journal of Operational Research, Volume 267(1), pp. 264 - 272, 2018. 
 
-2.	Francesco Carrabs, A Biased Random-Key Genetic Algorithm for the Set Orienteering Problem, European Journal of Operational Research, Volume 292(3), pp. 830-854, 2021.  
+2.	Francesco Carrabs, [A Biased Random-Key Genetic Algorithm for the Set Orienteering Problem](https://www.sciencedirect.com/science/article/pii/S037722172031002X), European Journal of Operational Research, Volume 292(3), pp. 830-854, 2021.  
 
 3.	F. Laureana, C. Archetti, F. Carrabs, and R. Cerulli, A New Formulation and a Branch-and-Cut Algorithm for the Set Orienteering Problem, Submitted.
 
