@@ -12,7 +12,7 @@ We document the file format of the instances used in these papers. Files can be 
 or
 https://github.com/fcarrabs/Set_Orienteering_Problem/upload/main
 
-*** Instances *** 
+## Instances
 
 Instances are obtained by adapting instances for the Generalized Traveling Salesman Problem (GTSP) proposed in: 
 “M. Fischetti, J. J. Salazar Gonzalez, P. Toth, A branch-and-cut algorithm for the symmetric generalized traveling salesman problem, Operations Research 45 (3) (1997) 378–394”. 
@@ -28,7 +28,7 @@ A second set of instances has the abbreviation “RND” inside the name. In thi
 			-  File format follows TSPLIB format with an additional GTSP_SET_SECTION: One line for each cluster of customers: 
 				<cluster_id> <cluster_profit> list:<customer_id>
 
-*** Detailed Results *** 
+## Detailed Results
 	
 The detailed results of the algorithms introduced in the papers above can be downloaded from the following link:
 http://www.dipmat2.unisa.it/people/carrabs/www/DataSet/SOP_BRKGA_DetailedResults.xlsx
