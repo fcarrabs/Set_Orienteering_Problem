@@ -32,7 +32,6 @@ A second set of instances has the abbreviation “RND” inside the name. In thi
 	
 The detailed results of the algorithms introduced in the papers above can be downloaded from the following link:
 http://www.dipmat2.unisa.it/people/carrabs/www/detailedResults/SOP_BRKGA_DetailedResults.xlsx
-http://www.dipmat2.unisa.it/people/carrabs/www/detailedResults/SOP_BC_DetailedResults.xlsx
 
 or from
 
